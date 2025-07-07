@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output data files
+*.csv
+
+# Ignore Python system files
+__pycache__/
+*.pyc
+.DS_Store
